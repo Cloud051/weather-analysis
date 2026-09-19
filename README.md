@@ -1,4 +1,4 @@
-# Weather Analyzer 🌤️
+# Weather Analyzer
 
 A Python data analysis project that analyzes weather data from Szeged (2006-2016).
 
